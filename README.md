@@ -1,1 +1,1 @@
-# Assignment_2
+# Assignment_2_Sophia_Kurz
