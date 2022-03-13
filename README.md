@@ -1,4 +1,4 @@
-# Assignment 2: Exploration and Analysis of Misogynistic Insults vs Neutral Insults
+# Assignment 2: Exploration and Analysis of Misogynistic, Female-Targeted Insults vs Male-Targeted Insults
 
 For this assignement, I decided to examine if there was a difference in scoring for insults that are generally deemed to be misogynistic and targeted towards self-identifying women (I chose the terms: 'bitch', 'whore', 'slutty', 'skank', and 'tramp') and insults that are generally deemed to be primarily targeted towards self-identifying men (I chose the terms: 'dickhead', 'bastard', 'jackass', 'asshole','prick').
 
